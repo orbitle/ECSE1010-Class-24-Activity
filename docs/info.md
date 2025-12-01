@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project is a two-bit full adder in the form of a combinational logic circuit. The circuit takes five inputs: the digits of two two-bit binary numbers and a carry-in input. The circuit outputs the two-bit result of adding the two numbers and a carry-out output.
 
 ## How to test
 
-Explain how to use your project
+A1 and A2 are the digits of the first number. B1 and B2 are the digits of the second number. C-in is carry-in. C1 and C2 are the digits of the result of adding A and B. C-out is the carry-out (activates if there is overflow from addition).
 
 ## External hardware
 
